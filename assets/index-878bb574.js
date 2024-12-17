@@ -1,4 +1,4 @@
-import{F as v}from"./index-33ccd186.js";import{_ as k,r as z,d as e,e as w,f as I,g as t,m as D,h as a,w as s,n as g,i as l}from"./index-1cb9ec0c.js";const A={class:"cloudProcessDetails"},h={class:"banner"},C={class:"wrap"},L={class:"dropdown_box"},T={class:"el-dropdown-link"},V={class:"detail-top-nav-box"},j={class:"detail-top-nav-wrap"},F={class:"wrap detail-top-nav"},N={__name:"index",setup(Z){const y=[{name:"212",desc:` 数据采集全面，适用于所有样本，采用液相
+import{F as v}from"./index-e7a9e1ac.js";import{_ as k,r as z,d as e,e as w,f as I,g as t,m as D,h as a,w as s,n as g,i as l}from"./index-b091758d.js";const A={class:"cloudProcessDetails"},h={class:"banner"},C={class:"wrap"},L={class:"dropdown_box"},T={class:"el-dropdown-link"},V={class:"detail-top-nav-box"},j={class:"detail-top-nav-wrap"},F={class:"wrap detail-top-nav"},N={__name:"index",setup(Z){const y=[{name:"212",desc:` 数据采集全面，适用于所有样本，采用液相
                      串联质谱和前沿的生物信息分析研究不同样
                      本间的蛋白种类的差异情况。可用于探究疾病标志物筛
                      选、农学/医学基础机制研究、药物作用靶点研究、特殊功能
