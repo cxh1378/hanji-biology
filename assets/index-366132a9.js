@@ -1,1 +1,0 @@
-import{K as t}from"./index-b091758d.js";const a=t("index",{state:()=>({searchVal:null,activeMenus:null}),actions:{setSearchVal(e){this.searchVal=e},setActiveMenus(e){this.activeMenus=e}}});export{a as i};
