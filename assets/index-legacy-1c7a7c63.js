@@ -1,1 +1,0 @@
-System.register(["./index-legacy-bbd78bed.js"],(function(e,t){"use strict";var n;return{setters:[function(e){n=e.N}],execute:function(){e("i",n("index",{state:function(){return{searchVal:null,activeMenus:null}},actions:{setSearchVal:function(e){this.searchVal=e},setActiveMenus:function(e){this.activeMenus=e}}}))}}}));
