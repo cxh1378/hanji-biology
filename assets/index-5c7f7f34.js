@@ -1,0 +1,1 @@
+import{N as t}from"./index-6ed9229d.js";const a=t("index",{state:()=>({searchVal:null,activeMenus:null}),actions:{setSearchVal(e){this.searchVal=e},setActiveMenus(e){this.activeMenus=e}}});export{a as i};
